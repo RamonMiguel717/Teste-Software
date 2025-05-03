@@ -44,5 +44,5 @@ O projeto está preparado para operar nos seguintes ambientes:
   ```
 
 - Após a execução, os **relatórios de testes e cobertura de código** são gerados automaticamente na pasta `target/site/`.
-- A cobertura de código atingiu **92%**, com base no relatório do **JaCoCo**, e os dados são enviados ao **SonarCloud**.
+- A cobertura de código atingiu **92%**, com base no relatório do **JaCoCo**
 - Casos de teste foram elaborados para cobrir os principais fluxos e validações do sistema.
