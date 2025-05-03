@@ -31,7 +31,7 @@ O projeto está preparado para operar nos seguintes ambientes:
 ## Pipeline de Integração Contínua (CI)
 
 - **dev**: Compilação e testes automatizados em Ubuntu com JDK 16, 17 e 18.  
-- **hmg**: Análise estática e verificação da cobertura de testes (via SonarCloud + JaCoCo).  
+- **hmg**: Análise estática e verificação da cobertura de testes (JaCoCo).  
 - **prd**: Empacotamento do projeto para produção.
 
 ## Testes
