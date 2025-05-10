@@ -1,0 +1,3 @@
+com\exemplo\consultacpf\ConsultacpfApplication.class
+com\exemplo\consultacpf\controller\ConsultaCpfController.class
+com\exemplo\consultacpf\controller\CpfRequest.class
